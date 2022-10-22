@@ -3,7 +3,7 @@
 <div>
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=thompsonmanda08&&theme=github_dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=DD5E31&currStreakNum=C3D1D9&currStreakLabel=1F6FEB&sideNums=C3D1D9&dates=E4E2E2&sideLabels=1F6FEB" alt="cozyCodr" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=thompsonmanda08&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=thompsonmanda08&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=0d1117" />
 
 </div>
 <!--
