@@ -5,8 +5,6 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=thompsonmanda08&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thompsonmanda08&&theme=github_dark&hide_border=true&stroke=58A6FF&langs_count=8&layout=compact" alt="cozyCodr" />
-
 </div>
 <!--
 **thompsonmanda08/thompsonmanda08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,4 +19,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thompsonmanda08&&theme=github_dark&hide_border=true&stroke=58A6FF&langs_count=8&layout=compact" alt="cozyCodr" />
 -->
