@@ -9,9 +9,8 @@
 
 </div>
 
-<div>
-  [![An image of @thompsonmanda08's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/thompsonmanda08)](https://holopin.io/@thompsonmanda08)
-</div>
+[![An image of @thompsonmanda08's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/thompsonmanda08)](https://holopin.io/@thompsonmanda08)
+
 <!--
 **thompsonmanda08/thompsonmanda08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
