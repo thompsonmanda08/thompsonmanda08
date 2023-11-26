@@ -1,7 +1,7 @@
 ## Hello, Thompson Here! 👋
 I am a self-taught software engineer with experience working in diverse environments. I have come to understand that there is a lot I dont know and my major goal is to keep learning.
 
-### Technologies and Tools:
+#### My Tech Stack and the tools I use include:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -22,7 +22,6 @@ and more...
 -->
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thompsonmanda08&&theme=github_dark&hide_border=true&stroke=58A6FF&langs_count=8&layout=compact" alt="Thompson Manda" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thompsonmanda08&&theme=github_dark&hide_border=true&stroke=58A6FF&langs_count=8&layout=compact" alt="Thompson Manda" />
 
 [![An image of @thompsonmanda08's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/thompsonmanda08)](https://holopin.io/@thompsonmanda08)
