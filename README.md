@@ -2,7 +2,7 @@
 
 ### I'd Love to work with you
 
-[<img align="left" alt="thompsonmanda08 | Linkedin" width="22px" style={color:"#fff"} src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="thompsonmanda08 | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />][linkedin]
 
 <br/>
 
