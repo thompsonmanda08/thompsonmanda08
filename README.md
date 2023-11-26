@@ -2,7 +2,7 @@
 
 [![An image of @thompsonmanda08's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/thompsonmanda08)](https://holopin.io/@thompsonmanda08)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thompsonmanda08&&theme=github_dark&hide_border=true&stroke=58A6FF&langs_count=8&layout=compact" alt="BK08" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thompsonmanda08&&theme=github_dark&hide_border=true&stroke=58A6FF&langs_count=8&layout=compact" alt="BK08" />
 
 <!--
 **thompsonmanda08/thompsonmanda08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
