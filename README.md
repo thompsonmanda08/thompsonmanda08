@@ -1,5 +1,6 @@
 ## Hello, Thompson Here! 👋
->>
+I am a highly skilled and self-motivated professional with over 3 years’ experience working in diverse environments. My interests lie within Engineering, innovation and
+Technology. My expertise includes a good understanding of design and development of web and mobile applications
 
 ### Technologies and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
