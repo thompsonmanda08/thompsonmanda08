@@ -1,10 +1,5 @@
 ## Hello, Thompson Here! 👋
-
-### I'd Love to work with you
-
-[<img align="left" alt="thompsonmanda08 | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />][linkedin]
-
-<br/>
+>>
 
 ### Technologies and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
