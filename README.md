@@ -2,9 +2,14 @@
 
 ###
 
+<br clear="both">
+
 <h1 align="left">Hi 👋! Thompson Here!</h1>
+
 ###
+
 <p align="left">From self-taught to well-rounded: Navigating the ever-evolving landscape of software engineering! 🚀 Frontend enthusiast on a mission to learn, adapt, and embrace the endless possibilities of coding. 💻✨ #Interwebb #WeGoAgain #CodingAdventure #NeverStopLearning</p>
+
 ###
 
 <h3 align="left">I'm happy to collaborate with you; find me here</h3>
@@ -134,13 +139,12 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thompsonmanda08&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=thompsonmanda08&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thompsonmanda08&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=thompsonmanda08&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thompsonmanda08&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=thompsonmanda08&locale=en&mode=weekly&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
-<br clear="both">
 
   [![An image of @thompsonmanda08's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/thompsonmanda08)](https://holopin.io/@thompsonmanda08)
 
