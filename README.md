@@ -1,8 +1,14 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=thompsonmanda08.thompsonmanda08&"  />
+
+###
+
+<br clear="both">
+
 <h1 align="left">Hi 👋! Thompson Here!</h1>
 
 ###
 
-<p align="left">From self-taught to well-rounded: Navigating the ever-evolving landscape of software engineering! 🚀 Frontend enthusiast on a mission to learn, adapt, and embrace the endless possibilities of coding. 💻✨ #Interwebb #WeGoAgain #CodingAdventure #NeverStopLearning</p>
+<p align="left">I am a self-taught software engineer with experience working in diverse environments. I have come to understand that there is a lot I don't know, and my major goal is to keep learning. My interestes lie on the frontend development how ever I plan to become a well rounded software engineer.</p>
 
 ###
 
@@ -15,7 +21,7 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://linkedin.com/in/thompsonmanda08" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="blackcruz08" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
@@ -131,11 +137,6 @@
 </div>
 
 ###
-<br clear="both">
-
-  [![An image of @thompsonmanda08's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/thompsonmanda08)](https://holopin.io/@thompsonmanda08)
-
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=thompsonmanda08&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
@@ -144,12 +145,11 @@
 </div>
 
 ###
-
 <br clear="both">
 
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=thompsonmanda08.thompsonmanda08&"  />
-</div>
+  [![An image of @thompsonmanda08's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/thompsonmanda08)](https://holopin.io/@thompsonmanda08)
+
+
 
 
 
