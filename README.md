@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am a self-taught software engineer with experience working in diverse environments. I have come to understand that there is a lot I don't know, and my major goal is to keep learning. My interestes lie on the frontend development how ever I plan to become a well rounded software engineer.</p>
+<p align="left">I am a self-taught software engineer with experience working in diverse environments. I have come to understand that there is a lot I don't know, and my major goal is to keep learning. My interests lie in frontend development, however I plan to become a well-rounded software engineer.</p>
 
 ###
 
@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://linkedin.com/in/thompsonmanda08" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Linkedin logo"  />
   </a>
   <a href="blackcruz08" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
