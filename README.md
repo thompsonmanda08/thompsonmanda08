@@ -142,12 +142,14 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/thompsonmanda08/thompsonmanda08/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=thompsonmanda08.thompsonmanda08&"  />
+</div>
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/thompsonmanda08/count.svg?"  />
-</div>
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/thompsonmanda08/thompsonmanda08/output/snake.gif" alt="Snake animation" />
 
 ###
