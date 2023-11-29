@@ -2,14 +2,9 @@
 
 ###
 
-<br clear="both">
-
 <h1 align="left">Hi 👋! Thompson Here!</h1>
-
 ###
-
-<p align="left">I am a self-taught software engineer with experience working in diverse environments. I have come to understand that there is a lot I don't know, and my major goal is to keep learning. My interestes lie on the frontend development how ever I plan to become a well rounded software engineer.</p>
-
+<p align="left">From self-taught to well-rounded: Navigating the ever-evolving landscape of software engineering! 🚀 Frontend enthusiast on a mission to learn, adapt, and embrace the endless possibilities of coding. 💻✨ #Interwebb #WeGoAgain #CodingAdventure #NeverStopLearning</p>
 ###
 
 <h3 align="left">I'm happy to collaborate with you; find me here</h3>
