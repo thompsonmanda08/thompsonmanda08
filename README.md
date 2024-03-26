@@ -12,7 +12,7 @@
 
 ###
 
-<h3 align="left">I'm happy to collaborate with you; find me here</h3>
+<h4 align="left">I'm happy to collaborate with you; find me here</h4>
 
 ###
 
