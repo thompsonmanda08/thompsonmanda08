@@ -138,6 +138,8 @@
 
 ###
 
+<!-- CAN BE BROUGHT BACK LATER
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thompsonmanda08&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&order=2&custom_title=Favorite%20Languages" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=thompsonmanda08&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph"  />
@@ -150,6 +152,6 @@
   [![An image of @thompsonmanda08's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/thompsonmanda08)](https://holopin.io/@thompsonmanda08)
 
 
-
+-->
 
 
