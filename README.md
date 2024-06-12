@@ -1,8 +1,10 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=thompsonmanda08.thompsonmanda08&"  />
 
 ###
+
 <br clear="both">
 <h1 align="left">Hi 👋! Thompson Here!</h1>
+
 ###
 
 <p align="left">From self-taught to well-rounded: Navigating the ever-evolving landscape of software engineering! 🚀 Frontend enthusiast on a mission to learn, adapt, and embrace the endless possibilities of coding. 💻✨ #Interwebb #WeGoAgain #CodingAdventure #NeverStopLearning</p>
