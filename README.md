@@ -1,11 +1,8 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=thompsonmanda08.thompsonmanda08&"  />
 
 ###
-
 <br clear="both">
-
 <h1 align="left">Hi 👋! Thompson Here!</h1>
-
 ###
 
 <p align="left">From self-taught to well-rounded: Navigating the ever-evolving landscape of software engineering! 🚀 Frontend enthusiast on a mission to learn, adapt, and embrace the endless possibilities of coding. 💻✨ #Interwebb #WeGoAgain #CodingAdventure #NeverStopLearning</p>
@@ -42,18 +39,13 @@
 
 <div align="left">
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="30" alt="figma logo"  />
-  <img width="12" />
   <img src="https://img.shields.io/badge/Adobe XD-FF61F6?logo=adobexd&logoColor=black&style=for-the-badge" height="30" alt="xd logo"  />
-  <img width="12" />
   <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?logo=adobeillustrator&logoColor=black&style=for-the-badge" height="30" alt="adobeillustrator logo"  />
-  <img width="12" />
   <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?logo=adobephotoshop&logoColor=black&style=for-the-badge" height="30" alt="adobephotoshop logo"  />
 </div>
 
 ###
-
 <h3 align="left">Web/Mobile App Frontend Technologies</h3>
-
 ###
 
 <div align="left">
@@ -69,9 +61,7 @@
 </div>
 
 ###
-
 <h3 align="left">Backend | Version Control | DevOps | IDE Toolkit</h3>
-
 ###
 
 <div align="left">
@@ -105,7 +95,6 @@
 </div>
 
 ###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thompsonmanda08&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&order=2&custom_title=Favorite%20Languages" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=thompsonmanda08&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph"  />
